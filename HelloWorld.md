@@ -24,4 +24,3 @@ output: html_document
 ###Three pound signs
 ##Two pound signs
 #One pound sign
-DID YOU KNOW HASHTAGS WERE INVENTED BEFORE TWITTER??!
